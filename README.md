@@ -1,5 +1,5 @@
-# SSP-Mamba
-The pytorch code of hyperspectral image super-resolution method SSP-Mamba.
+# WESSP-Mamba
+The pytorch code of hyperspectral image super-resolution method WESSP-Mamba.
 
 The code will be released after acceptance.
 ## Requirements
